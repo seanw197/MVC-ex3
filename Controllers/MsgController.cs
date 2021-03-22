@@ -13,6 +13,7 @@ namespace MVC_ex3.Controllers
         // GET: SMSController/Create
         public ActionResult Create()
         {
+            // test comment
             return View();
         }
 
