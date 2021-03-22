@@ -14,10 +14,8 @@ namespace MVC_ex3.Controllers
         public ActionResult Create()
         {
             // test comment
-            // second test comment
             return View();
         }
-
 
         // GET: MsgController
 
